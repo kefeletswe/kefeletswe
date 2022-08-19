@@ -151,7 +151,27 @@ HTML
 
 CSS
 7 errors were fmade ound on (Jigsaw validator)
+ 
+ 
+ LIGHTHOUSE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+![Screenshot (26)](https://user-images.githubusercontent.com/109689817/185546496-995f2eb8-cf63-4e0a-8737-5cd28013ea13.jpg)
+ 
+ 
+ 
+ 
+ 
+ 
 
+ UNFIXED BUGS
+ 
+ No unfixed bugs
 
 DEPLOYMENT
 This site was deployed to GitHub pages. The steps are as followers;
