@@ -40,7 +40,7 @@ This section shows the user the facilities availbabe if they enroll their childr
 
 
 FORM
-The user can be able to register or log in if they already have an account with the school. This also has a remeber password but unfortunatley it does not work and also the  form button hovers on the words register and login and chages the form contents dependeing on the button clicked.
+The user can be able to register or log in if they already have an account with the school. This also has a remeber password click button but unfortunatley it does not work. The  form button hovers on the words register and login ahave a smooth transition.
 
 The user can also find the schools social media links, contact number and location icons.
 
