@@ -7,15 +7,10 @@ In this website parents will be able to find out who works at the school, what f
 
 
 FEATURES INCLUDE:
+HOME PAGE
+The user will find a navigation which is located at the top  of the page where the user can be able to find the school name and on the top-left, the Home,About, Facilities and Login form. When clicked move to their linked pages. The navigation bar is fixed on the whole page , this feature makes it easy for the user to go from one page to another without having to scrol up.
 
-Navigation bar;  this is located at the top of the page where the user can be able to find the school name on the left, the Home,About, Facilities and Login form easily.
-
-
-Header;   on this section the user is able to simple and relevant information about the name of the school, location, age group and the type of education offered. 
-Below thst the user can find a register now navbar which hovers green when clicked.The hover effect is not working at the moment. The color 3 colors on the register nav blend in well together.
-
-
-The hearder  has a background image of a teacher with a child. This is to make the page attractive, relevant and easy to understand before even reading the page contents. It has a description incase the page does not load up.
+The home page has a background image of a teacher with a child. This is to make the page attractive, relevant and easy to understand before even reading the page contents. It has a description incase the page does not load up.
 
 
 
@@ -24,11 +19,8 @@ The hearder  has a background image of a teacher with a child. This is to make t
 
 
 
-
-
-
-ABOUT 
-The about section of the page gives users more information about the schools curriculum, mission and vison statements. It also provides  the user with relevant information about the employees.This section has a hover effet when the user hovers over the words curriculum, vision and mission. The colors chosen blend in well with this page.
+ABOUT PAGE
+The second page which is linked to the About navigation bar,  the user will be able to find relevant information about the schools location, age range, opening hour and location.A grid was added to enable the user to find the schools details quickly.The user can either scrool down or click on ABOUT, which is locted at the top-right corner of the page in order to access it.
 
 
 
@@ -41,8 +33,8 @@ The about section of the page gives users more information about the schools cur
 
 
 
-Team
-Here the user will find staff members qualifications and their pictures
+TEAM
+Here the user will find more information about the staff members qualifications and their pictures. The page links well with the navigation bar.The user will find 3 images of the schools employees.
 
 
 
@@ -80,14 +72,14 @@ This section shows the user the facilities availbabe if they enroll their childr
 
 
 FORM
-The user can be able to register or log in if they already have an account with the school. This also has a remeber password click button but unfortunatley it does not work. The  form button hovers on the words register and login ahave a smooth transition.
+The user can be able to register or log in if they already have an account with the school.
 
-The user can also find the schools social media links, contact number and location icons.
+
 
 
 
 FOOTER
-The schools copy right and contact details can be found here. The footer is currently in the form section.
+The user will find the schools social media links, copyright and location map.
 
 
 
@@ -100,7 +92,7 @@ I confirmed that the header, navigation, about, team, facilities and login are r
 
 I have confirmed that some of the features in the website are responsive and work on all screen sizes. The home bar, and about us section are not responsive to different screen sizes.
 
-I confirm that not all the features of the form are working.
+I confirm that all the features of the form are working.
 
 
 
@@ -110,10 +102,9 @@ I confirm that not all the features of the form are working.
 PROBLEMS
  
 
-Kindergarten name located on the top-right corner was underlined. I solved this by adding the <a> element before the div instead of inside the heading_area div.
+Kindergarten name located on the top-right corner was underlined. I solved this by setting the text-decoration to none.
 
-The background image on the header could not fill in the whole page. Tis was because the CSS width was in px instead of % percentage
-could not zoom out image
+The background image on the header could not fill in the whole page. This was because the CSS width was in px instead of % percentage.
  
 
 
@@ -150,7 +141,7 @@ HTML
 9 errors were found in W3C Validator
 
 CSS
-7 errors were fmade ound on (Jigsaw validator)
+7 errors were found on (Jigsaw validator)
  
  
  LIGHTHOUSE
